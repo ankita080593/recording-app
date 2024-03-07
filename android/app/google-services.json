@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "441830633759",
+    "project_id": "audiorecordingapp-e9a50",
+    "storage_bucket": "audiorecordingapp-e9a50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441830633759:android:0cda2d108e9ecc9cd6802a",
+        "android_client_info": {
+          "package_name": "com.ankita.recordngapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPvsGKLxa8ju4q34CtpD2DYKKOkuTCtSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
